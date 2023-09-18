@@ -1,0 +1,10 @@
+.loginpage_container h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login_error {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: 0;
+}

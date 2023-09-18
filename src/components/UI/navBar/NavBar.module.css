@@ -1,0 +1,18 @@
+.NavBar {
+  height: 70px;
+  box-shadow: 0.4em 0.4em 5px rgba(232, 232, 232, 0.5);
+  background-color: var(--light-navbar-font);
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+.NavBar_buttons {
+  float: right;
+  margin: 19px;
+}
+.NavBar_buttons button {
+  margin-left: 15px;
+  border-radius: 7px;
+}
+

@@ -1,0 +1,15 @@
+.welcomePage_mainContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 15%;
+    flex-direction:column ;
+    height: auto;
+}
+
+.welcomePage_btns button{
+    border-radius: 7px
+}
+
+.registrationBtn{
+    margin: 15px;
+}

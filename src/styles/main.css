@@ -1,0 +1,8 @@
+body{
+    background-color: var(--light-mainContainer-font) !important;
+    color:var(--dark-mainContainer-font) !important;
+    transition: 0.3s;
+}
+h1{
+color: var(--dark-h1-color) !important;
+}

@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "username": "dimka_brz",
+      "password": "qweqweqwe",
+      "id": 1
+    },
+    {
+      "username": "viktor",
+      "password": "zxczxczxc",
+      "id": 2
+    },
+    {
+      "username": "dimka_brz",
+      "password": "qweqweqwe",
+      "id": 3
+    },
+    {
+      "username": "dimka",
+      "password": "qweqweqwe",
+      "id": 4
+    },
+    {
+      "username": "dimka",
+      "password": "qweqweqwe",
+      "id": 5
+    }
+  ],
+  "contacts": [],
+  "posts": [
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "magnam facilis autem",
+      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+    },
+    {
+      "userId": 2,
+      "id": 16,
+      "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+      "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
+    },
+    {
+      "userId": 2,
+      "id": 19,
+      "title": "adipisci placeat illum aut reiciendis qui",
+      "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
+    },
+    {
+      "title": "фывфыв",
+      "body": "ыфыфвфыв",
+      "id": 22
+    },
+    {
+      "title": "new post",
+      "body": "qweqwe",
+      "id": 23
+    },
+    {
+      "title": "qeqwe",
+      "body": "qwewqe",
+      "id": 24
+    },
+    {
+      "title": "qweqew",
+      "body": "sadsda",
+      "id": 25
+    },
+    {
+      "title": "sadsad",
+      "body": "sdsadadscccc123123",
+      "id": 26
+    },
+    {
+      "title": "123",
+      "body": "123",
+      "id": 27
+    },
+    {
+      "title": "321",
+      "body": "321321",
+      "id": 28
+    }
+  ]
+}
